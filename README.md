@@ -113,6 +113,11 @@ IBM Granite receives the **already-computed, structured mission facts** and tran
 Granite does **not** determine the risk score or autonomously make the mission decision.
 
 ---
+<img width="719" height="414" alt="Screenshot 2026-11-21 at 8 34 35 PM" src="https://github.com/user-attachments/assets/4949a7ff-862a-42d6-b12c-90b283d0142a" />
+
+<img width="1086" height="601" alt="Screenshot 2026-11-21 at 8 34 52 PM" src="https://github.com/user-attachments/assets/cd1e4952-3fca-4124-bce2-19b16b28eb55" />
+
+
 
 ## 🧠 AI Approach and Architecture
 
