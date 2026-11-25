@@ -7,6 +7,10 @@
 > **Core idea:** Detecting fatigue is only half the problem. An intervention that helps one astronaut now can transfer risk to another crew member, a dependent task, or a later mission day.
 
 ---
+Our Video Submission!
+https://drive.google.com/file/d/10Ji9bc-4Fq3GyekRHxCgYcApbVQoWgrB/view?usp=sharing
+---
+
 
 ## 🌌 Selected Challenge Theme
 
